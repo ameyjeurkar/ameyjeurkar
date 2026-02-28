@@ -1,20 +1,26 @@
 <h1 align="center">Hi 👋, I'm Amey Jeurkar</h1>
 <h6 align="center">Full-Stack Engineer focused on building scalable, high-performance web applications using React, Node.js, and modern backend architectures. Strong expertise in optimizing frontend performance, API efficiency, and implementing clean, production-ready systems with a strong emphasis on maintainability and scalability.</h6>
 
+
+
 ---
+
+
 
 ### 👨‍💻 About Me
 
 - 💻 I love to code, build things & solve problems.
 - 🤝 Open to collaborate.
 - ⚡ I enjoy football and photography.
-- 🌐 Portfolio: <a href="https://ameyjeurkar.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
+- 🌐 Portfolio: [ameyjeurkar.netlify.app](https://ameyjeurkar.netlify.app)
 
 ---
 
+
+
 ### 🛠 My Tech Stack
+
+
 
 <p align="center">
   <!-- Frontend -->
@@ -48,7 +54,11 @@
   <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira" />
 </p>
 
+
+
 ---
+
+
 
 ### 📫 Connect With Me
 
@@ -67,3 +77,11 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
+
+
+
+---
+
+
+
+🟠 LeetCode: [leetcode.com/amey123](https://leetcode.com/ameyjeurkar)
