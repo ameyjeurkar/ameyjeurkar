@@ -83,8 +83,6 @@
 ---
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/yourusername)
-🟠 LeetCode: [leetcode.com/ameyjeurkar](https://leetcode.com/ameyjeurkar)
-<a href="https://leetcode.com/yourusername">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+![LeetCode Stats](https://leetcard.jacoblin.cool/ameyjeurkar)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/ameyjeurkar?theme=dark&ext=heatmap)
