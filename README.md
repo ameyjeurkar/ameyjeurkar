@@ -34,41 +34,24 @@
   <img src="https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=ngrx" />
   <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux" />
   <img src="https://img.shields.io/badge/Microfrontend-FF6F00?style=for-the-badge" />
-</p>
-
-<br/>
-
-### 💻 Languages & APIs
-
-<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql" />
-</p>
-
-<br/>
-
-### 🎨 UI & Styling
-
-<p align="center">
   <img src="https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui" />
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components" />
-</p>
-
-<br/>
-
-### ☁️ Cloud & Tools
-
-<p align="center">
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman" />
   <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira" />
 </p>
 
----
-
+<br/>
+<br/>
+<br/>
 ## 🟠 LeetCode Progress
+<br/>
+<br/>
+<br/>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/ameyjeurkar?theme=dark&ext=heatmap"/>
