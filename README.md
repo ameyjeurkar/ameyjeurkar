@@ -10,29 +10,23 @@
 <p align="center">
   🌐 <a href="https://ameyjeurkar.netlify.app"><b>Portfolio</b></a>
 </p>
-<br/>
-<br/>
-<br/>
-----
+
 <br/>
 <br/>
 <br/>
 
-## 👨‍💻 About Me
+## About Me
 
-- 💻 I love building scalable systems & solving complex problems  
-- ⚡ Strong focus on performance & maintainable architecture  
-- 🤝 Open to collaboration & impactful product development  
-- ⚽ Football & 📸 Photography enthusiast  
-<br/>
-<br/>
-<br/>
-----
+- I love building scalable systems & solving complex problems  
+- Strong focus on performance & maintainable architecture  
+- Open to collaboration & impactful product development  
+- Football & Photography enthusiast  
+
 <br/>
 <br/>
 <br/>
 
-## 🛠 Tech Stack
+## Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular" />
@@ -55,21 +49,15 @@
 <br/>
 <br/>
 <br/>
-## 🟠 LeetCode Progress
-<br/>
-<br/>
-<br/>
 
+## 🟠 LeetCode Progress
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/ameyjeurkar?theme=dark&ext=heatmap"/>
 </p>
 <br/>
 <br/>
 <br/>
-----
-<br/>
-<br/>
-<br/>
+
 ## 📫 Connect With Me
 
 <p align="center">
@@ -85,10 +73,4 @@
   <a href="https://leetcode.com/ameyjeurkar">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  ⭐ If you like my work, consider giving a star to my repositories!
 </p>
