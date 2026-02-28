@@ -14,10 +14,6 @@
 
 ### 🛠 My Tech Stack
 
----
-
-## 🛠 My Tech Stack
-
 <p align="center">
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
@@ -69,7 +65,3 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
-
----
-
-⭐ Show some love by starring repositories!
