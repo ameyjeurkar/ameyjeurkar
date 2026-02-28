@@ -13,7 +13,6 @@
 
 <br/>
 <br/>
-<br/>
 
 ## About Me
 
@@ -22,7 +21,6 @@
 - Open to collaboration & impactful product development  
 - Football & Photography enthusiast  
 
-<br/>
 <br/>
 <br/>
 
@@ -48,13 +46,12 @@
 
 <br/>
 <br/>
-<br/>
 
 ## 🟠 LeetCode Progress
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/ameyjeurkar?theme=dark&ext=heatmap"/>
 </p>
-<br/>
+
 <br/>
 <br/>
 
