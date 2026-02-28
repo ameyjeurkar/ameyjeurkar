@@ -8,7 +8,9 @@
 - 💻 I love to code, build things & solve problems.
 - 🤝 Open to collaborate.
 - ⚡ I enjoy football and photography.
-- 🌐 Portfolio: [ameyjeurkar.com]([https://yourwebsite.com](https://ameyjeurkar.netlify.app/))
+- 🌐 Portfolio: <a href="https://ameyjeurkar.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 
 ---
 
