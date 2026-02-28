@@ -83,6 +83,5 @@
 ---
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ameyjeurkar)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ameyjeurkar?theme=dark&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ameyjeurkar?ext=heatmap)
