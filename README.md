@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amey Jeurkar</h1>
-<h3 align="center">Full-Stack Engineer focused on building scalable, high-performance web applications using React, Node.js, and modern backend architectures. Strong expertise in optimizing frontend performance, API efficiency, and implementing clean, production-ready systems with a strong emphasis on maintainability and scalability.</h3>
+<h6 align="center">Full-Stack Engineer focused on building scalable, high-performance web applications using React, Node.js, and modern backend architectures. Strong expertise in optimizing frontend performance, API efficiency, and implementing clean, production-ready systems with a strong emphasis on maintainability and scalability.</h6>
 
 ---
 
