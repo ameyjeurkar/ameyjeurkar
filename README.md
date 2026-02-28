@@ -10,8 +10,13 @@
 <p align="center">
   🌐 <a href="https://ameyjeurkar.netlify.app"><b>Portfolio</b></a>
 </p>
-
----
+<br/>
+<br/>
+<br/>
+----
+<br/>
+<br/>
+<br/>
 
 ## 👨‍💻 About Me
 
@@ -19,13 +24,15 @@
 - ⚡ Strong focus on performance & maintainable architecture  
 - 🤝 Open to collaboration & impactful product development  
 - ⚽ Football & 📸 Photography enthusiast  
-
----
+<br/>
+<br/>
+<br/>
+----
+<br/>
+<br/>
+<br/>
 
 ## 🛠 Tech Stack
-
-### 🚀 Frontend & Architecture
-
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular" />
@@ -56,9 +63,13 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/ameyjeurkar?theme=dark&ext=heatmap"/>
 </p>
-
----
-
+<br/>
+<br/>
+<br/>
+----
+<br/>
+<br/>
+<br/>
 ## 📫 Connect With Me
 
 <p align="center">
